@@ -22,3 +22,4 @@ terraform.tfstate.backup
 titanic_clean.csv
 
 .ipynb_checkpoints/
+*.parquet
